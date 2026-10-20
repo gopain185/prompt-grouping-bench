@@ -1,0 +1,10 @@
+[project]
+name = "prompt-grouping-bench"
+version = "0.1.0"
+description = "Known-truth simulation of test-time prompt grouping (centring, Hungarian assignment, joint decoding, balancing) for authorship attribution"
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "pandas"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

@@ -1,0 +1,601 @@
+setting,rep,decoder,bal_acc
+"cv (18 per prompt, 150 prompts)",0,plain,0.3585185185185185
+"cv (18 per prompt, 150 prompts)",0,center,0.45333333333333337
+"cv (18 per prompt, 150 prompts)",0,hungarian,0.4766666666666667
+"cv (18 per prompt, 150 prompts)",0,joint,0.44222222222222224
+"cv (18 per prompt, 150 prompts)",0,joint_no_repeat,0.4766666666666667
+"cv (18 per prompt, 150 prompts)",0,plain_sinkhorn,0.3592592592592592
+test (1 per prompt),0,plain,0.35185329434049456
+test (1 per prompt),0,center,0.24714630912019497
+test (1 per prompt),0,hungarian,0.345310818344754
+test (1 per prompt),0,joint,0.33039568960522875
+test (1 per prompt),0,joint_no_repeat,0.3289728441437001
+test (1 per prompt),0,plain_sinkhorn,0.35098753522531434
+test (2 per prompt),0,plain,0.3557951062043221
+test (2 per prompt),0,center,0.3014161529483597
+test (2 per prompt),0,hungarian,0.3584543112768192
+test (2 per prompt),0,joint,0.3685797560728737
+test (2 per prompt),0,joint_no_repeat,0.3681942338614286
+test (2 per prompt),0,plain_sinkhorn,0.3561652822308721
+test (3 per prompt),0,plain,0.35872837702201593
+test (3 per prompt),0,center,0.3569096270142025
+test (3 per prompt),0,hungarian,0.3701658164372066
+test (3 per prompt),0,joint,0.3906270215570995
+test (3 per prompt),0,joint_no_repeat,0.3945251222038841
+test (3 per prompt),0,plain_sinkhorn,0.35875583750767565
+test (mixed per prompt),0,plain,0.36042462047451695
+test (mixed per prompt),0,center,0.3971339439306328
+test (mixed per prompt),0,hungarian,0.41085996901913935
+test (mixed per prompt),0,joint,0.4166319951435937
+test (mixed per prompt),0,joint_no_repeat,0.4249807461335242
+test (mixed per prompt),0,plain_sinkhorn,0.35862018782049615
+"cv (18 per prompt, 150 prompts)",1,plain,0.3648148148148148
+"cv (18 per prompt, 150 prompts)",1,center,0.4551851851851852
+"cv (18 per prompt, 150 prompts)",1,hungarian,0.47000000000000003
+"cv (18 per prompt, 150 prompts)",1,joint,0.44111111111111106
+"cv (18 per prompt, 150 prompts)",1,joint_no_repeat,0.4696296296296296
+"cv (18 per prompt, 150 prompts)",1,plain_sinkhorn,0.3640740740740741
+test (1 per prompt),1,plain,0.3632451882456296
+test (1 per prompt),1,center,0.24520614238209587
+test (1 per prompt),1,hungarian,0.3598459300522323
+test (1 per prompt),1,joint,0.3447249428626065
+test (1 per prompt),1,joint_no_repeat,0.3406485218281607
+test (1 per prompt),1,plain_sinkhorn,0.36203122546919475
+test (2 per prompt),1,plain,0.3431298539294449
+test (2 per prompt),1,center,0.3040235289326184
+test (2 per prompt),1,hungarian,0.3462250940977712
+test (2 per prompt),1,joint,0.360151514975102
+test (2 per prompt),1,joint_no_repeat,0.3591576126696103
+test (2 per prompt),1,plain_sinkhorn,0.34387639169935436
+test (3 per prompt),1,plain,0.35637439644983104
+test (3 per prompt),1,center,0.3639987014256641
+test (3 per prompt),1,hungarian,0.3736193835375806
+test (3 per prompt),1,joint,0.40738425024041347
+test (3 per prompt),1,joint_no_repeat,0.41313473464886136
+test (3 per prompt),1,plain_sinkhorn,0.35644116131939046
+test (mixed per prompt),1,plain,0.3580686179081225
+test (mixed per prompt),1,center,0.39395398090811395
+test (mixed per prompt),1,hungarian,0.409090961048861
+test (mixed per prompt),1,joint,0.4137894174897487
+test (mixed per prompt),1,joint_no_repeat,0.4210421819417828
+test (mixed per prompt),1,plain_sinkhorn,0.3579240196093202
+"cv (18 per prompt, 150 prompts)",2,plain,0.3433333333333333
+"cv (18 per prompt, 150 prompts)",2,center,0.44703703703703707
+"cv (18 per prompt, 150 prompts)",2,hungarian,0.4618518518518518
+"cv (18 per prompt, 150 prompts)",2,joint,0.43592592592592594
+"cv (18 per prompt, 150 prompts)",2,joint_no_repeat,0.4574074074074074
+"cv (18 per prompt, 150 prompts)",2,plain_sinkhorn,0.34555555555555556
+test (1 per prompt),2,plain,0.3589567552366424
+test (1 per prompt),2,center,0.26040933230399527
+test (1 per prompt),2,hungarian,0.3519042131684093
+test (1 per prompt),2,joint,0.34728932769469606
+test (1 per prompt),2,joint_no_repeat,0.3407951355973331
+test (1 per prompt),2,plain_sinkhorn,0.3608814072956996
+test (2 per prompt),2,plain,0.34488414413124613
+test (2 per prompt),2,center,0.2983284642886417
+test (2 per prompt),2,hungarian,0.35245187876080086
+test (2 per prompt),2,joint,0.36187184985145743
+test (2 per prompt),2,joint_no_repeat,0.3634945196880022
+test (2 per prompt),2,plain_sinkhorn,0.3450223812912274
+test (3 per prompt),2,plain,0.3591530670938601
+test (3 per prompt),2,center,0.35466114914056257
+test (3 per prompt),2,hungarian,0.36789504805540163
+test (3 per prompt),2,joint,0.38995552571034187
+test (3 per prompt),2,joint_no_repeat,0.3915505164456074
+test (3 per prompt),2,plain_sinkhorn,0.3602968635090869
+test (mixed per prompt),2,plain,0.3589723102189938
+test (mixed per prompt),2,center,0.40176738831473235
+test (mixed per prompt),2,hungarian,0.4168033487541613
+test (mixed per prompt),2,joint,0.41861498647507855
+test (mixed per prompt),2,joint_no_repeat,0.428400577703697
+test (mixed per prompt),2,plain_sinkhorn,0.35959563677358913
+"cv (18 per prompt, 150 prompts)",3,plain,0.36037037037037034
+"cv (18 per prompt, 150 prompts)",3,center,0.4614814814814815
+"cv (18 per prompt, 150 prompts)",3,hungarian,0.47333333333333333
+"cv (18 per prompt, 150 prompts)",3,joint,0.442962962962963
+"cv (18 per prompt, 150 prompts)",3,joint_no_repeat,0.4600000000000001
+"cv (18 per prompt, 150 prompts)",3,plain_sinkhorn,0.35777777777777775
+test (1 per prompt),3,plain,0.34850668078202823
+test (1 per prompt),3,center,0.251086083643136
+test (1 per prompt),3,hungarian,0.34309526071631424
+test (1 per prompt),3,joint,0.33598642998104467
+test (1 per prompt),3,joint_no_repeat,0.3326107154125453
+test (1 per prompt),3,plain_sinkhorn,0.35036455132714683
+test (2 per prompt),3,plain,0.3701249482035926
+test (2 per prompt),3,center,0.31018598114477147
+test (2 per prompt),3,hungarian,0.3719543239772204
+test (2 per prompt),3,joint,0.37905338227216595
+test (2 per prompt),3,joint_no_repeat,0.37580382297261317
+test (2 per prompt),3,plain_sinkhorn,0.36841777703064155
+test (3 per prompt),3,plain,0.36687752156224573
+test (3 per prompt),3,center,0.3674881397864816
+test (3 per prompt),3,hungarian,0.3759719636819131
+test (3 per prompt),3,joint,0.39261225083677853
+test (3 per prompt),3,joint_no_repeat,0.39541458510941907
+test (3 per prompt),3,plain_sinkhorn,0.36716309938409636
+test (mixed per prompt),3,plain,0.3467641803374513
+test (mixed per prompt),3,center,0.39777632737122254
+test (mixed per prompt),3,hungarian,0.41696963062807374
+test (mixed per prompt),3,joint,0.4168721104061255
+test (mixed per prompt),3,joint_no_repeat,0.4295539026612226
+test (mixed per prompt),3,plain_sinkhorn,0.3466749894897292
+"cv (18 per prompt, 150 prompts)",4,plain,0.3566666666666667
+"cv (18 per prompt, 150 prompts)",4,center,0.44777777777777783
+"cv (18 per prompt, 150 prompts)",4,hungarian,0.49296296296296294
+"cv (18 per prompt, 150 prompts)",4,joint,0.4403703703703704
+"cv (18 per prompt, 150 prompts)",4,joint_no_repeat,0.47259259259259256
+"cv (18 per prompt, 150 prompts)",4,plain_sinkhorn,0.3559259259259259
+test (1 per prompt),4,plain,0.36049418197240385
+test (1 per prompt),4,center,0.25423904224319593
+test (1 per prompt),4,hungarian,0.35593092631792056
+test (1 per prompt),4,joint,0.34179142376034666
+test (1 per prompt),4,joint_no_repeat,0.3394536168916782
+test (1 per prompt),4,plain_sinkhorn,0.3598895759418783
+test (2 per prompt),4,plain,0.3567447458376892
+test (2 per prompt),4,center,0.292222492807346
+test (2 per prompt),4,hungarian,0.3596808828265048
+test (2 per prompt),4,joint,0.36861685225418506
+test (2 per prompt),4,joint_no_repeat,0.37249352334843544
+test (2 per prompt),4,plain_sinkhorn,0.35819720795474924
+test (3 per prompt),4,plain,0.3576724910725981
+test (3 per prompt),4,center,0.3604333489644273
+test (3 per prompt),4,hungarian,0.36521821862543113
+test (3 per prompt),4,joint,0.3939520744068543
+test (3 per prompt),4,joint_no_repeat,0.40134994540297236
+test (3 per prompt),4,plain_sinkhorn,0.35660520650200267
+test (mixed per prompt),4,plain,0.3500148516312986
+test (mixed per prompt),4,center,0.3973949985678655
+test (mixed per prompt),4,hungarian,0.40934736410577816
+test (mixed per prompt),4,joint,0.40133564321316495
+test (mixed per prompt),4,joint_no_repeat,0.41489950365982325
+test (mixed per prompt),4,plain_sinkhorn,0.3474185564596332
+"cv (18 per prompt, 150 prompts)",5,plain,0.35111111111111115
+"cv (18 per prompt, 150 prompts)",5,center,0.44259259259259254
+"cv (18 per prompt, 150 prompts)",5,hungarian,0.46888888888888897
+"cv (18 per prompt, 150 prompts)",5,joint,0.43333333333333335
+"cv (18 per prompt, 150 prompts)",5,joint_no_repeat,0.4548148148148148
+"cv (18 per prompt, 150 prompts)",5,plain_sinkhorn,0.34925925925925927
+test (1 per prompt),5,plain,0.35521840038432456
+test (1 per prompt),5,center,0.2536402825191347
+test (1 per prompt),5,hungarian,0.3501783672767613
+test (1 per prompt),5,joint,0.3389719192192753
+test (1 per prompt),5,joint_no_repeat,0.33567438189972126
+test (1 per prompt),5,plain_sinkhorn,0.3581743746009176
+test (2 per prompt),5,plain,0.3502628164261923
+test (2 per prompt),5,center,0.29966653078080985
+test (2 per prompt),5,hungarian,0.35276476548075414
+test (2 per prompt),5,joint,0.3635722349676367
+test (2 per prompt),5,joint_no_repeat,0.3645351583118107
+test (2 per prompt),5,plain_sinkhorn,0.35436585669414483
+test (3 per prompt),5,plain,0.3602801256763535
+test (3 per prompt),5,center,0.35362059268507084
+test (3 per prompt),5,hungarian,0.3722760391759541
+test (3 per prompt),5,joint,0.39878440784388586
+test (3 per prompt),5,joint_no_repeat,0.40092516208334844
+test (3 per prompt),5,plain_sinkhorn,0.35907503757982684
+test (mixed per prompt),5,plain,0.3601060668746648
+test (mixed per prompt),5,center,0.38770044377883717
+test (mixed per prompt),5,hungarian,0.4108438770027008
+test (mixed per prompt),5,joint,0.40565515896511334
+test (mixed per prompt),5,joint_no_repeat,0.4141814231879016
+test (mixed per prompt),5,plain_sinkhorn,0.35953917915078726
+"cv (18 per prompt, 150 prompts)",6,plain,0.3618518518518519
+"cv (18 per prompt, 150 prompts)",6,center,0.44703703703703707
+"cv (18 per prompt, 150 prompts)",6,hungarian,0.462962962962963
+"cv (18 per prompt, 150 prompts)",6,joint,0.4296296296296296
+"cv (18 per prompt, 150 prompts)",6,joint_no_repeat,0.4425925925925926
+"cv (18 per prompt, 150 prompts)",6,plain_sinkhorn,0.36000000000000004
+test (1 per prompt),6,plain,0.3466603633406053
+test (1 per prompt),6,center,0.23994245860615468
+test (1 per prompt),6,hungarian,0.3416208216610588
+test (1 per prompt),6,joint,0.3290732240912033
+test (1 per prompt),6,joint_no_repeat,0.3246746865179555
+test (1 per prompt),6,plain_sinkhorn,0.3485872117626841
+test (2 per prompt),6,plain,0.3491838028483919
+test (2 per prompt),6,center,0.2902815563779784
+test (2 per prompt),6,hungarian,0.35370979252034734
+test (2 per prompt),6,joint,0.35946271781233086
+test (2 per prompt),6,joint_no_repeat,0.36138620375002056
+test (2 per prompt),6,plain_sinkhorn,0.3497667519303984
+test (3 per prompt),6,plain,0.359768454496481
+test (3 per prompt),6,center,0.3564092152889824
+test (3 per prompt),6,hungarian,0.3683756657602156
+test (3 per prompt),6,joint,0.3956513074915058
+test (3 per prompt),6,joint_no_repeat,0.3954931987004538
+test (3 per prompt),6,plain_sinkhorn,0.359336644192261
+test (mixed per prompt),6,plain,0.34871077757055596
+test (mixed per prompt),6,center,0.38458827932402856
+test (mixed per prompt),6,hungarian,0.4050092633669153
+test (mixed per prompt),6,joint,0.3974746731720206
+test (mixed per prompt),6,joint_no_repeat,0.41580617752726884
+test (mixed per prompt),6,plain_sinkhorn,0.3484761199789461
+"cv (18 per prompt, 150 prompts)",7,plain,0.3466666666666666
+"cv (18 per prompt, 150 prompts)",7,center,0.4466666666666666
+"cv (18 per prompt, 150 prompts)",7,hungarian,0.4674074074074073
+"cv (18 per prompt, 150 prompts)",7,joint,0.43629629629629624
+"cv (18 per prompt, 150 prompts)",7,joint_no_repeat,0.45629629629629637
+"cv (18 per prompt, 150 prompts)",7,plain_sinkhorn,0.3522222222222222
+test (1 per prompt),7,plain,0.34220064566801756
+test (1 per prompt),7,center,0.257011408350787
+test (1 per prompt),7,hungarian,0.33650735495214207
+test (1 per prompt),7,joint,0.33688102638950007
+test (1 per prompt),7,joint_no_repeat,0.33431658711283124
+test (1 per prompt),7,plain_sinkhorn,0.34287056766306995
+test (2 per prompt),7,plain,0.35217874388135634
+test (2 per prompt),7,center,0.2901884735560547
+test (2 per prompt),7,hungarian,0.35947195099233453
+test (2 per prompt),7,joint,0.3645511470522689
+test (2 per prompt),7,joint_no_repeat,0.3636741684041942
+test (2 per prompt),7,plain_sinkhorn,0.35155428252538345
+test (3 per prompt),7,plain,0.35610485481429577
+test (3 per prompt),7,center,0.35042113290023014
+test (3 per prompt),7,hungarian,0.3642089773526439
+test (3 per prompt),7,joint,0.3878362288739436
+test (3 per prompt),7,joint_no_repeat,0.391440621511401
+test (3 per prompt),7,plain_sinkhorn,0.35709411167930555
+test (mixed per prompt),7,plain,0.35622970605965276
+test (mixed per prompt),7,center,0.4129620121956181
+test (mixed per prompt),7,hungarian,0.4156114475134919
+test (mixed per prompt),7,joint,0.4137528881391189
+test (mixed per prompt),7,joint_no_repeat,0.43079088260101955
+test (mixed per prompt),7,plain_sinkhorn,0.35714440751385995
+"cv (18 per prompt, 150 prompts)",8,plain,0.3385185185185185
+"cv (18 per prompt, 150 prompts)",8,center,0.4466666666666666
+"cv (18 per prompt, 150 prompts)",8,hungarian,0.462962962962963
+"cv (18 per prompt, 150 prompts)",8,joint,0.43296296296296294
+"cv (18 per prompt, 150 prompts)",8,joint_no_repeat,0.45333333333333337
+"cv (18 per prompt, 150 prompts)",8,plain_sinkhorn,0.33925925925925926
+test (1 per prompt),8,plain,0.3538557093299431
+test (1 per prompt),8,center,0.2631895813126804
+test (1 per prompt),8,hungarian,0.35021162475340417
+test (1 per prompt),8,joint,0.3420022684664873
+test (1 per prompt),8,joint_no_repeat,0.3390964746905512
+test (1 per prompt),8,plain_sinkhorn,0.35493484822738713
+test (2 per prompt),8,plain,0.34840880850081496
+test (2 per prompt),8,center,0.29928588583008603
+test (2 per prompt),8,hungarian,0.3534885468005406
+test (2 per prompt),8,joint,0.36271776185126803
+test (2 per prompt),8,joint_no_repeat,0.36450914155699804
+test (2 per prompt),8,plain_sinkhorn,0.3480890382897771
+test (3 per prompt),8,plain,0.3574425324282149
+test (3 per prompt),8,center,0.35954314858302283
+test (3 per prompt),8,hungarian,0.36922278319176377
+test (3 per prompt),8,joint,0.3933942350920143
+test (3 per prompt),8,joint_no_repeat,0.39192456349711535
+test (3 per prompt),8,plain_sinkhorn,0.3563397528894542
+test (mixed per prompt),8,plain,0.3478535564391308
+test (mixed per prompt),8,center,0.39771838058090814
+test (mixed per prompt),8,hungarian,0.4161294918231879
+test (mixed per prompt),8,joint,0.4069102982683801
+test (mixed per prompt),8,joint_no_repeat,0.42734896325145966
+test (mixed per prompt),8,plain_sinkhorn,0.34839911170885224
+"cv (18 per prompt, 150 prompts)",9,plain,0.35259259259259257
+"cv (18 per prompt, 150 prompts)",9,center,0.4581481481481482
+"cv (18 per prompt, 150 prompts)",9,hungarian,0.472962962962963
+"cv (18 per prompt, 150 prompts)",9,joint,0.4444444444444444
+"cv (18 per prompt, 150 prompts)",9,joint_no_repeat,0.4674074074074073
+"cv (18 per prompt, 150 prompts)",9,plain_sinkhorn,0.352962962962963
+test (1 per prompt),9,plain,0.3513406497624959
+test (1 per prompt),9,center,0.24507320093852492
+test (1 per prompt),9,hungarian,0.34880882925277185
+test (1 per prompt),9,joint,0.32893313582842937
+test (1 per prompt),9,joint_no_repeat,0.3263517332572064
+test (1 per prompt),9,plain_sinkhorn,0.3525505633364398
+test (2 per prompt),9,plain,0.3442158571017315
+test (2 per prompt),9,center,0.294561669800701
+test (2 per prompt),9,hungarian,0.35133445877894565
+test (2 per prompt),9,joint,0.3670107603280426
+test (2 per prompt),9,joint_no_repeat,0.36626082465803
+test (2 per prompt),9,plain_sinkhorn,0.3417466529593603
+test (3 per prompt),9,plain,0.35719160712838166
+test (3 per prompt),9,center,0.3468869141603516
+test (3 per prompt),9,hungarian,0.37145433427692715
+test (3 per prompt),9,joint,0.3827960925017303
+test (3 per prompt),9,joint_no_repeat,0.3827465968936631
+test (3 per prompt),9,plain_sinkhorn,0.35709893871566706
+test (mixed per prompt),9,plain,0.34465981467270557
+test (mixed per prompt),9,center,0.39311869300834584
+test (mixed per prompt),9,hungarian,0.40629281490507435
+test (mixed per prompt),9,joint,0.40039920943095975
+test (mixed per prompt),9,joint_no_repeat,0.42352947066112717
+test (mixed per prompt),9,plain_sinkhorn,0.34235525720617704
+"cv (18 per prompt, 150 prompts)",10,plain,0.3433333333333333
+"cv (18 per prompt, 150 prompts)",10,center,0.44074074074074077
+"cv (18 per prompt, 150 prompts)",10,hungarian,0.4655555555555556
+"cv (18 per prompt, 150 prompts)",10,joint,0.42518518518518517
+"cv (18 per prompt, 150 prompts)",10,joint_no_repeat,0.457037037037037
+"cv (18 per prompt, 150 prompts)",10,plain_sinkhorn,0.3474074074074074
+test (1 per prompt),10,plain,0.35267620396277755
+test (1 per prompt),10,center,0.2587098491076836
+test (1 per prompt),10,hungarian,0.35225383813721556
+test (1 per prompt),10,joint,0.33804850669156983
+test (1 per prompt),10,joint_no_repeat,0.33408752135032305
+test (1 per prompt),10,plain_sinkhorn,0.3505727460073641
+test (2 per prompt),10,plain,0.3585981071744899
+test (2 per prompt),10,center,0.28876095402688345
+test (2 per prompt),10,hungarian,0.35843605404665496
+test (2 per prompt),10,joint,0.37144602722835784
+test (2 per prompt),10,joint_no_repeat,0.3706167768975861
+test (2 per prompt),10,plain_sinkhorn,0.3607528936919188
+test (3 per prompt),10,plain,0.3382702948407234
+test (3 per prompt),10,center,0.3575645173329739
+test (3 per prompt),10,hungarian,0.35097847894259243
+test (3 per prompt),10,joint,0.37668967747023696
+test (3 per prompt),10,joint_no_repeat,0.3862089779767788
+test (3 per prompt),10,plain_sinkhorn,0.34172858347972473
+test (mixed per prompt),10,plain,0.3447326681990978
+test (mixed per prompt),10,center,0.394026333968091
+test (mixed per prompt),10,hungarian,0.40675810208984164
+test (mixed per prompt),10,joint,0.4035032511757288
+test (mixed per prompt),10,joint_no_repeat,0.4139373537638605
+test (mixed per prompt),10,plain_sinkhorn,0.34541007581209016
+"cv (18 per prompt, 150 prompts)",11,plain,0.37518518518518523
+"cv (18 per prompt, 150 prompts)",11,center,0.46740740740740744
+"cv (18 per prompt, 150 prompts)",11,hungarian,0.48629629629629634
+"cv (18 per prompt, 150 prompts)",11,joint,0.4548148148148148
+"cv (18 per prompt, 150 prompts)",11,joint_no_repeat,0.4844444444444444
+"cv (18 per prompt, 150 prompts)",11,plain_sinkhorn,0.37555555555555553
+test (1 per prompt),11,plain,0.3635534368030946
+test (1 per prompt),11,center,0.2554438770364327
+test (1 per prompt),11,hungarian,0.3617715749415065
+test (1 per prompt),11,joint,0.3456840512207137
+test (1 per prompt),11,joint_no_repeat,0.3429609096931527
+test (1 per prompt),11,plain_sinkhorn,0.3634766801831228
+test (2 per prompt),11,plain,0.3579242028059887
+test (2 per prompt),11,center,0.3055891117825772
+test (2 per prompt),11,hungarian,0.36452138882181373
+test (2 per prompt),11,joint,0.37372075174782277
+test (2 per prompt),11,joint_no_repeat,0.3731554548014302
+test (2 per prompt),11,plain_sinkhorn,0.35709899617829804
+test (3 per prompt),11,plain,0.35458404626326356
+test (3 per prompt),11,center,0.3655728095034648
+test (3 per prompt),11,hungarian,0.3648220049648341
+test (3 per prompt),11,joint,0.3953569696218062
+test (3 per prompt),11,joint_no_repeat,0.3977638062372541
+test (3 per prompt),11,plain_sinkhorn,0.3531228030864517
+test (mixed per prompt),11,plain,0.3521098900561038
+test (mixed per prompt),11,center,0.3965443065657711
+test (mixed per prompt),11,hungarian,0.4078119722615793
+test (mixed per prompt),11,joint,0.40887670606833065
+test (mixed per prompt),11,joint_no_repeat,0.42089883403456585
+test (mixed per prompt),11,plain_sinkhorn,0.3517132539184288
+"cv (18 per prompt, 150 prompts)",12,plain,0.35333333333333333
+"cv (18 per prompt, 150 prompts)",12,center,0.452962962962963
+"cv (18 per prompt, 150 prompts)",12,hungarian,0.48629629629629634
+"cv (18 per prompt, 150 prompts)",12,joint,0.4411111111111112
+"cv (18 per prompt, 150 prompts)",12,joint_no_repeat,0.47740740740740745
+"cv (18 per prompt, 150 prompts)",12,plain_sinkhorn,0.355925925925926
+test (1 per prompt),12,plain,0.35860561920293654
+test (1 per prompt),12,center,0.2588765431953617
+test (1 per prompt),12,hungarian,0.3535357738494317
+test (1 per prompt),12,joint,0.350730437055601
+test (1 per prompt),12,joint_no_repeat,0.34596461576445886
+test (1 per prompt),12,plain_sinkhorn,0.3602458444825607
+test (2 per prompt),12,plain,0.3610605010165249
+test (2 per prompt),12,center,0.3010612641003431
+test (2 per prompt),12,hungarian,0.36176769010973425
+test (2 per prompt),12,joint,0.3718471830880224
+test (2 per prompt),12,joint_no_repeat,0.3716118984535291
+test (2 per prompt),12,plain_sinkhorn,0.36227190688658406
+test (3 per prompt),12,plain,0.3528089388909671
+test (3 per prompt),12,center,0.3616964153584672
+test (3 per prompt),12,hungarian,0.36222910915986306
+test (3 per prompt),12,joint,0.38822651977335704
+test (3 per prompt),12,joint_no_repeat,0.3922350184630066
+test (3 per prompt),12,plain_sinkhorn,0.3528697857638077
+test (mixed per prompt),12,plain,0.3585195582323381
+test (mixed per prompt),12,center,0.39762216205239764
+test (mixed per prompt),12,hungarian,0.41375748414405095
+test (mixed per prompt),12,joint,0.405463513824304
+test (mixed per prompt),12,joint_no_repeat,0.41621895287949073
+test (mixed per prompt),12,plain_sinkhorn,0.35745852689157975
+"cv (18 per prompt, 150 prompts)",13,plain,0.3518518518518518
+"cv (18 per prompt, 150 prompts)",13,center,0.4440740740740741
+"cv (18 per prompt, 150 prompts)",13,hungarian,0.45000000000000007
+"cv (18 per prompt, 150 prompts)",13,joint,0.42925925925925923
+"cv (18 per prompt, 150 prompts)",13,joint_no_repeat,0.44148148148148153
+"cv (18 per prompt, 150 prompts)",13,plain_sinkhorn,0.35185185185185186
+test (1 per prompt),13,plain,0.3426517968183483
+test (1 per prompt),13,center,0.24678482669611723
+test (1 per prompt),13,hungarian,0.3381772328247552
+test (1 per prompt),13,joint,0.32883653352759645
+test (1 per prompt),13,joint_no_repeat,0.3240250964951623
+test (1 per prompt),13,plain_sinkhorn,0.34232415062573435
+test (2 per prompt),13,plain,0.3680868960446786
+test (2 per prompt),13,center,0.30674627425084494
+test (2 per prompt),13,hungarian,0.3729085075357058
+test (2 per prompt),13,joint,0.37657315227804344
+test (2 per prompt),13,joint_no_repeat,0.3774370410398376
+test (2 per prompt),13,plain_sinkhorn,0.3668901630249781
+test (3 per prompt),13,plain,0.3669579421110861
+test (3 per prompt),13,center,0.361629126927356
+test (3 per prompt),13,hungarian,0.37933320504621704
+test (3 per prompt),13,joint,0.3999693454744383
+test (3 per prompt),13,joint_no_repeat,0.40126682100547534
+test (3 per prompt),13,plain_sinkhorn,0.36707329105319286
+test (mixed per prompt),13,plain,0.3402754069598707
+test (mixed per prompt),13,center,0.3819164313455734
+test (mixed per prompt),13,hungarian,0.39583869225721835
+test (mixed per prompt),13,joint,0.39056112836377854
+test (mixed per prompt),13,joint_no_repeat,0.3966201474557576
+test (mixed per prompt),13,plain_sinkhorn,0.34129128943232556
+"cv (18 per prompt, 150 prompts)",14,plain,0.3566666666666667
+"cv (18 per prompt, 150 prompts)",14,center,0.44814814814814813
+"cv (18 per prompt, 150 prompts)",14,hungarian,0.46851851851851856
+"cv (18 per prompt, 150 prompts)",14,joint,0.44
+"cv (18 per prompt, 150 prompts)",14,joint_no_repeat,0.4696296296296296
+"cv (18 per prompt, 150 prompts)",14,plain_sinkhorn,0.3559259259259259
+test (1 per prompt),14,plain,0.3469229906116832
+test (1 per prompt),14,center,0.23820721599539998
+test (1 per prompt),14,hungarian,0.3446692611718183
+test (1 per prompt),14,joint,0.3323984841512998
+test (1 per prompt),14,joint_no_repeat,0.32948095226714247
+test (1 per prompt),14,plain_sinkhorn,0.347286629693857
+test (2 per prompt),14,plain,0.3533628795635073
+test (2 per prompt),14,center,0.285017104323204
+test (2 per prompt),14,hungarian,0.3566453462660466
+test (2 per prompt),14,joint,0.35844030545007316
+test (2 per prompt),14,joint_no_repeat,0.3624411508105302
+test (2 per prompt),14,plain_sinkhorn,0.3519891743414567
+test (3 per prompt),14,plain,0.35078815017839693
+test (3 per prompt),14,center,0.3566352100276387
+test (3 per prompt),14,hungarian,0.361310172551318
+test (3 per prompt),14,joint,0.38766676291314733
+test (3 per prompt),14,joint_no_repeat,0.39191259778731996
+test (3 per prompt),14,plain_sinkhorn,0.35279704441674586
+test (mixed per prompt),14,plain,0.35652998463327684
+test (mixed per prompt),14,center,0.3940053812113749
+test (mixed per prompt),14,hungarian,0.4045631549365385
+test (mixed per prompt),14,joint,0.4042805861367639
+test (mixed per prompt),14,joint_no_repeat,0.4188278592556144
+test (mixed per prompt),14,plain_sinkhorn,0.35646764960543287
+"cv (18 per prompt, 150 prompts)",15,plain,0.35407407407407404
+"cv (18 per prompt, 150 prompts)",15,center,0.45592592592592596
+"cv (18 per prompt, 150 prompts)",15,hungarian,0.46925925925925926
+"cv (18 per prompt, 150 prompts)",15,joint,0.4388888888888889
+"cv (18 per prompt, 150 prompts)",15,joint_no_repeat,0.4674074074074073
+"cv (18 per prompt, 150 prompts)",15,plain_sinkhorn,0.3566666666666667
+test (1 per prompt),15,plain,0.3527984318572892
+test (1 per prompt),15,center,0.24154302418105622
+test (1 per prompt),15,hungarian,0.3497811785258971
+test (1 per prompt),15,joint,0.33625616824036
+test (1 per prompt),15,joint_no_repeat,0.3321421306358559
+test (1 per prompt),15,plain_sinkhorn,0.353180161316848
+test (2 per prompt),15,plain,0.353423381330961
+test (2 per prompt),15,center,0.2916753830344805
+test (2 per prompt),15,hungarian,0.357065272433665
+test (2 per prompt),15,joint,0.36595163689441856
+test (2 per prompt),15,joint_no_repeat,0.36780417241588714
+test (2 per prompt),15,plain_sinkhorn,0.3525205677113605
+test (3 per prompt),15,plain,0.36779545299286176
+test (3 per prompt),15,center,0.36425104787285434
+test (3 per prompt),15,hungarian,0.38336336741864874
+test (3 per prompt),15,joint,0.4000703478729194
+test (3 per prompt),15,joint_no_repeat,0.4063752237086214
+test (3 per prompt),15,plain_sinkhorn,0.36774195302800466
+test (mixed per prompt),15,plain,0.34523935246383564
+test (mixed per prompt),15,center,0.3952683942845892
+test (mixed per prompt),15,hungarian,0.4020800342507176
+test (mixed per prompt),15,joint,0.40605537366617905
+test (mixed per prompt),15,joint_no_repeat,0.41462902419113445
+test (mixed per prompt),15,plain_sinkhorn,0.3473124880118487
+"cv (18 per prompt, 150 prompts)",16,plain,0.3337037037037037
+"cv (18 per prompt, 150 prompts)",16,center,0.44333333333333336
+"cv (18 per prompt, 150 prompts)",16,hungarian,0.47111111111111104
+"cv (18 per prompt, 150 prompts)",16,joint,0.4277777777777778
+"cv (18 per prompt, 150 prompts)",16,joint_no_repeat,0.4677777777777778
+"cv (18 per prompt, 150 prompts)",16,plain_sinkhorn,0.3359259259259259
+test (1 per prompt),16,plain,0.36502867154508406
+test (1 per prompt),16,center,0.25249561802577514
+test (1 per prompt),16,hungarian,0.359325468428649
+test (1 per prompt),16,joint,0.34173485371763435
+test (1 per prompt),16,joint_no_repeat,0.3395786151653357
+test (1 per prompt),16,plain_sinkhorn,0.3639794974616532
+test (2 per prompt),16,plain,0.3531895468199138
+test (2 per prompt),16,center,0.29337179258769347
+test (2 per prompt),16,hungarian,0.3566176371026362
+test (2 per prompt),16,joint,0.37275862263436693
+test (2 per prompt),16,joint_no_repeat,0.3711402709888121
+test (2 per prompt),16,plain_sinkhorn,0.3542370144270202
+test (3 per prompt),16,plain,0.3516408976653921
+test (3 per prompt),16,center,0.3568922054747963
+test (3 per prompt),16,hungarian,0.3606736329745645
+test (3 per prompt),16,joint,0.39050137898479814
+test (3 per prompt),16,joint_no_repeat,0.3961335812499416
+test (3 per prompt),16,plain_sinkhorn,0.3532203566097444
+test (mixed per prompt),16,plain,0.3500321138396238
+test (mixed per prompt),16,center,0.3993196608009202
+test (mixed per prompt),16,hungarian,0.4084266246209045
+test (mixed per prompt),16,joint,0.4065077766514753
+test (mixed per prompt),16,joint_no_repeat,0.41482495591596497
+test (mixed per prompt),16,plain_sinkhorn,0.35207245209350196
+"cv (18 per prompt, 150 prompts)",17,plain,0.3514814814814815
+"cv (18 per prompt, 150 prompts)",17,center,0.44407407407407407
+"cv (18 per prompt, 150 prompts)",17,hungarian,0.44814814814814813
+"cv (18 per prompt, 150 prompts)",17,joint,0.42925925925925923
+"cv (18 per prompt, 150 prompts)",17,joint_no_repeat,0.44814814814814813
+"cv (18 per prompt, 150 prompts)",17,plain_sinkhorn,0.35037037037037033
+test (1 per prompt),17,plain,0.3591292403279726
+test (1 per prompt),17,center,0.2547417799331475
+test (1 per prompt),17,hungarian,0.35574634924703785
+test (1 per prompt),17,joint,0.33549021427580983
+test (1 per prompt),17,joint_no_repeat,0.33270468625465544
+test (1 per prompt),17,plain_sinkhorn,0.3586124335295385
+test (2 per prompt),17,plain,0.3554114252486485
+test (2 per prompt),17,center,0.3088119316336144
+test (2 per prompt),17,hungarian,0.35561770089628275
+test (2 per prompt),17,joint,0.3763309614316129
+test (2 per prompt),17,joint_no_repeat,0.37690454694666775
+test (2 per prompt),17,plain_sinkhorn,0.3528968192574993
+test (3 per prompt),17,plain,0.3361608881366991
+test (3 per prompt),17,center,0.3517008631839029
+test (3 per prompt),17,hungarian,0.35058278846999236
+test (3 per prompt),17,joint,0.36951866577285597
+test (3 per prompt),17,joint_no_repeat,0.3747338433025299
+test (3 per prompt),17,plain_sinkhorn,0.3368878032596647
+test (mixed per prompt),17,plain,0.3601938060835241
+test (mixed per prompt),17,center,0.41457383962124594
+test (mixed per prompt),17,hungarian,0.4166833324903218
+test (mixed per prompt),17,joint,0.4246928967325462
+test (mixed per prompt),17,joint_no_repeat,0.43441322576219193
+test (mixed per prompt),17,plain_sinkhorn,0.3615375392139663
+"cv (18 per prompt, 150 prompts)",18,plain,0.34074074074074073
+"cv (18 per prompt, 150 prompts)",18,center,0.44851851851851854
+"cv (18 per prompt, 150 prompts)",18,hungarian,0.47
+"cv (18 per prompt, 150 prompts)",18,joint,0.435925925925926
+"cv (18 per prompt, 150 prompts)",18,joint_no_repeat,0.472962962962963
+"cv (18 per prompt, 150 prompts)",18,plain_sinkhorn,0.3403703703703704
+test (1 per prompt),18,plain,0.3551073216428089
+test (1 per prompt),18,center,0.2572992160751999
+test (1 per prompt),18,hungarian,0.35116819595172516
+test (1 per prompt),18,joint,0.337713566461125
+test (1 per prompt),18,joint_no_repeat,0.3339057068945891
+test (1 per prompt),18,plain_sinkhorn,0.35629062643605147
+test (2 per prompt),18,plain,0.3583446393991909
+test (2 per prompt),18,center,0.3043945375079097
+test (2 per prompt),18,hungarian,0.3595830751256925
+test (2 per prompt),18,joint,0.3772560907791269
+test (2 per prompt),18,joint_no_repeat,0.3762828516874081
+test (2 per prompt),18,plain_sinkhorn,0.35627264571832606
+test (3 per prompt),18,plain,0.3515499454549118
+test (3 per prompt),18,center,0.3482110818720753
+test (3 per prompt),18,hungarian,0.3616170246939579
+test (3 per prompt),18,joint,0.379843258369873
+test (3 per prompt),18,joint_no_repeat,0.38211210696921444
+test (3 per prompt),18,plain_sinkhorn,0.35079704530503225
+test (mixed per prompt),18,plain,0.3508276563935218
+test (mixed per prompt),18,center,0.38933246343955946
+test (mixed per prompt),18,hungarian,0.4039945744885134
+test (mixed per prompt),18,joint,0.3987514664115689
+test (mixed per prompt),18,joint_no_repeat,0.4129691423213985
+test (mixed per prompt),18,plain_sinkhorn,0.3497575884742192
+"cv (18 per prompt, 150 prompts)",19,plain,0.34740740740740744
+"cv (18 per prompt, 150 prompts)",19,center,0.4514814814814815
+"cv (18 per prompt, 150 prompts)",19,hungarian,0.47148148148148145
+"cv (18 per prompt, 150 prompts)",19,joint,0.43962962962962965
+"cv (18 per prompt, 150 prompts)",19,joint_no_repeat,0.457037037037037
+"cv (18 per prompt, 150 prompts)",19,plain_sinkhorn,0.3459259259259259
+test (1 per prompt),19,plain,0.3434089911046099
+test (1 per prompt),19,center,0.2493074810037746
+test (1 per prompt),19,hungarian,0.34049190320046674
+test (1 per prompt),19,joint,0.3307801780586854
+test (1 per prompt),19,joint_no_repeat,0.3269909912652718
+test (1 per prompt),19,plain_sinkhorn,0.3489950095053798
+test (2 per prompt),19,plain,0.35089261065776184
+test (2 per prompt),19,center,0.28809991068875107
+test (2 per prompt),19,hungarian,0.3529232025963025
+test (2 per prompt),19,joint,0.3676936998444746
+test (2 per prompt),19,joint_no_repeat,0.36789320528391145
+test (2 per prompt),19,plain_sinkhorn,0.35034709968576616
+test (3 per prompt),19,plain,0.35814482143898096
+test (3 per prompt),19,center,0.3409576687812998
+test (3 per prompt),19,hungarian,0.36440873379855476
+test (3 per prompt),19,joint,0.380637322925475
+test (3 per prompt),19,joint_no_repeat,0.3829610963258794
+test (3 per prompt),19,plain_sinkhorn,0.3577938897426548
+test (mixed per prompt),19,plain,0.3465719270437149
+test (mixed per prompt),19,center,0.39865890290694694
+test (mixed per prompt),19,hungarian,0.4041691636652694
+test (mixed per prompt),19,joint,0.4052378359242801
+test (mixed per prompt),19,joint_no_repeat,0.41350658236700677
+test (mixed per prompt),19,plain_sinkhorn,0.3492158262459688
