@@ -20,5 +20,5 @@ The decoders:
 - `joint_no_repeat`: `joint` plus the one-passage-per-author constraint.
 - `plain_sinkhorn`: plain scores, then rescale until every author holds the same share of the probability mass.
 
-Everything runs on CPU in about 15 to 25 minutes. The package source is embedded in the next cell, so the notebook is
+Everything runs on CPU in about 10 to 15 minutes. The package source is embedded in the next cell, so the notebook is
 self-contained.
